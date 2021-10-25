@@ -24,6 +24,7 @@ I am __Angie Kwok__, I have over 3 years of experience working in the external a
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extra-curricular](#Extra-curricular) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -31,8 +32,9 @@ I am __Angie Kwok__, I have over 3 years of experience working in the external a
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+General Assurance - Senior Associate (Technology, Medical, Education Industry)<br>
+June-2019 to Jan-2021: 1 year 8 Months
+
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
@@ -84,3 +86,6 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+##### Extra-curricular
+<!-- Add your details -->
