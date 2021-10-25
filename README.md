@@ -36,7 +36,7 @@ General Assurance - Senior Associate (Technology, Medical, Education Industry)<b
 June-2019 to Jan-2021: 1 year 8 Months
 
 
-ROLE: External Audit / Senior Associate
+ROLE: External Audit / Senior Associate<br>
 UNIT: PwC_GENERAL ASSURANCE
 
 Reviewed and evaluated clients’ business and accounting processes to ensure compliance with Singapore Financial Reporting Standards (SFRS) and suggest improvements areas in the key controls and business processes.
