@@ -44,8 +44,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Singapore Institute of Technology
+Bachelor of Accountancy (Honors)
+2015 – 2017
 
 <!-- EDUCATION Section Ends -->
 
