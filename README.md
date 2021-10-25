@@ -31,15 +31,15 @@ I am __Angie Kwok__, I have over 3 years of experience working in the external a
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
+##### PwC SINGAPORE
 General Assurance - Senior Associate (Technology, Medical, Education Industry)<br>
 June-2019 to Jan-2021: 1 year 8 Months
 
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: External Audit / Senior Associate
+UNIT: PwC_GENERAL ASSURANCE
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Reviewed and evaluated clients’ business and accounting processes to ensure compliance with Singapore Financial Reporting Standards (SFRS) and suggest improvements areas in the key controls and business processes.
 
 <!-- EXPERIENCE Section Ends -->
 
